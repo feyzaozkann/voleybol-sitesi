@@ -6,7 +6,7 @@ body{
 	color:#333;
 	font-size: 15px;
 	line-height:1.6;
-	text-align:center;
+	
 }
  
 a:link {
@@ -79,6 +79,10 @@ p{
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
+.resim-ortala{
+			text-align:center;
+			margin:20px;
+		}
 
 footer{
     background-color:#d8e3e7; 
@@ -86,4 +90,5 @@ footer{
     padding: 13px;
     margin-top:35px;
 	padding-left:19;
+
 }
